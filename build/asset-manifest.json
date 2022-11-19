@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/odh97/lecture-blog/static/css/main.e8a2baa1.css",
-    "main.js": "/odh97/lecture-blog/static/js/main.1918961e.js",
-    "static/js/787.f587e8d5.chunk.js": "/odh97/lecture-blog/static/js/787.f587e8d5.chunk.js",
-    "index.html": "/odh97/lecture-blog/index.html",
-    "main.e8a2baa1.css.map": "/odh97/lecture-blog/static/css/main.e8a2baa1.css.map",
-    "main.1918961e.js.map": "/odh97/lecture-blog/static/js/main.1918961e.js.map",
-    "787.f587e8d5.chunk.js.map": "/odh97/lecture-blog/static/js/787.f587e8d5.chunk.js.map"
+    "main.css": "/lecture-blog/static/css/main.747a6801.css",
+    "main.js": "/lecture-blog/static/js/main.398ce6dc.js",
+    "static/js/787.f587e8d5.chunk.js": "/lecture-blog/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/lecture-blog/index.html",
+    "main.747a6801.css.map": "/lecture-blog/static/css/main.747a6801.css.map",
+    "main.398ce6dc.js.map": "/lecture-blog/static/js/main.398ce6dc.js.map",
+    "787.f587e8d5.chunk.js.map": "/lecture-blog/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8a2baa1.css",
-    "static/js/main.1918961e.js"
+    "static/css/main.747a6801.css",
+    "static/js/main.398ce6dc.js"
   ]
 }
